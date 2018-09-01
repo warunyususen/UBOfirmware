@@ -3,6 +3,6 @@ Firmware C++ language for supported board model AT2 series under Ultra-Bio-Ozone
 <br>
 <br>
 <br>
-MIT License
+Released under MIT license.
 <br>
 Copyright (c) 2018 Warunyu Susen
